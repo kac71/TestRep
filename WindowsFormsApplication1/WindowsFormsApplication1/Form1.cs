@@ -21,7 +21,7 @@ namespace WindowsFormsApplication1
         {
             string orderCode = "MRP" + DateTime.Now.ToString("yyMMddHHmmss");
             textBox1.Text += orderCode +"  ";
-            int b = 6;
+            int b = 7;
         }
     }
 }
